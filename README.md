@@ -1,0 +1,1 @@
+With this project, also download and run demo-feign-client project here: [https://github.com/umitishere/demo-feign-client](https://github.com/umitishere/demo-feign-client)
